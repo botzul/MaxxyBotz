@@ -67,8 +67,8 @@ global.ppulsa2 = '085295374964' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.co/MaxxyBotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
+global.nomorbot = '6287871537199'
+global.nomorown = '6287871537199'
 global.namebot = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ'
 global.nameown = 'ᴋᴀʜꜰɪ xᴅ'
 
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', 'ᴋᴀʜꜰɪ xᴅ', true],
+  ['6287871537199', 'ᴋᴀʜꜰɪ xᴅ', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
