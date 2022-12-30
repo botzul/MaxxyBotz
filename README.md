@@ -45,6 +45,12 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 - [x] **Multi Device** 
 - [x] **Button Document(Experiment)** 
 ---------
+## FOR REPLIT USER
+
+[![Run on Repl.it](https://repl.it/badge/github/botzul/MaxxyBotz)](https://repl.it/github/botzul/MaxxyBotz)
+
+----------
+
 #### Some of the features include
 - [x] Downloader 
 - [x] Internet 
